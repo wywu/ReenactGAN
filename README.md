@@ -53,7 +53,7 @@ The images used for testing is at ./test_imgs/samples/image, and the text file, 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Input** <img src="./results/real_F1/Image/P_Emmanuel_43066.jpg_0000036761.jpg" width="20%" alt="P_Emmanuel"><img src="./results/real_F1/Image/P_Kathleen_3985.jpg_0000003972.jpg" width="20%" alt="P_Kathleen"><img src="./results/real_F1/Image/P_MaYun_1513.jpg_0000000404.jpg" width="20%" alt="P_MaYun"><img src="./results/real_F1/Image/P_Theresa_5574.jpg_0000001205.jpg" width="20%" alt="P_Theresa">
 
-**ReenactGAN** <img src="./results/fake_F2/Image/P_Emmanuel_43066.jpg_0000036761.jpg" width="20%" alt="P_Emmanuel"><img src="./results/fake_F2/Image/P_Kathleen_3985.jpg_0000003972.jpg" width="20%" alt="P_Kathleen"><img src="./results/fake_F2/Image/P_MaYun_1513.jpg_0000000404.jpg" width="20%" alt="P_MaYun"><img src="./results/fake_F2/Image/P_Theresa_5574.jpg_0000001205.jpg" width="20%" alt="P_Theresa">
+&nbsp;&nbsp;&nbsp;**ReenactGAN** <img src="./results/fake_F2/Image/P_Emmanuel_43066.jpg_0000036761.jpg" width="20%" alt="P_Emmanuel"><img src="./results/fake_F2/Image/P_Kathleen_3985.jpg_0000003972.jpg" width="20%" alt="P_Kathleen"><img src="./results/fake_F2/Image/P_MaYun_1513.jpg_0000000404.jpg" width="20%" alt="P_MaYun"><img src="./results/fake_F2/Image/P_Theresa_5574.jpg_0000001205.jpg" width="20%" alt="P_Theresa">
 
 You can get our trained models from [Decoder](https://drive.google.com/file/d/1MBWABJK9webZxAMvN9Cl5FBhXateppzu/view?usp=sharing) and [Transformer](https://drive.google.com/open?id=1v-8kh0N56alKiSoBAENXp9KNJ0lg_Qtq).
 ## Citation
