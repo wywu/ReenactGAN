@@ -1,6 +1,6 @@
 # ReenactGAN: Learning to Reenact Faces via Boundary Transfer
 
-Created by [Wayne Wu](https://wywu.github.io/), [Yunxun Zhang](https://github.com/zyx2012) and Ren Li.
+Created by [Wayne Wu](https://wywu.github.io/), [Yunxun Zhang](https://github.com/zyx2012) and [Ren Li](https://github.com/liren2515).
 
 <img src='imgs/index.png' width="1000px">
 
