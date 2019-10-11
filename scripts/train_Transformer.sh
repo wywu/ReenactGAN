@@ -1,6 +1,6 @@
 python3 train_Transformer.py \
 --root_dir ./CelebV/ \
---name_landmarks_list sample_40000.txt \
+--name_landmarks_list all_98pt.txt \
 --checkpoints_dir ./checkpoints/ \
 --component Transformer \
 --batchSize 4 \
