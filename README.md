@@ -39,7 +39,7 @@ You need to take care of the arguments **--root_dir** and **--which_target**.  *
 
 To train the decoder, run
 ```bash
-sh script/train_Decoder.sh
+sh scripts/train_Decoder.sh
 ```
 Also, you need to take care of the value of **--root_dir**, which refers to the directory of the target person.
 
